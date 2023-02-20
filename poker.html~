@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    body {
+    background-image: url("moneyspin.gif");
+    }
+    
+  </style>
+</head>
+<html>
+  <body>
+    <h1>poker</h1>
+  </body>
+</html>
